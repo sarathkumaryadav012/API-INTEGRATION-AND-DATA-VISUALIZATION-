@@ -1,3 +1,16 @@
+# API INTEGRATION AND DATA VISUALIZATION
+
+*COMPANY*:  CODETECH IT SOLUTIONS
+
+*NAME*:  SIRIGIRI LEELA KRISHNA REDDY
+
+*INTERN ID*:  CT06DH1110
+
+*DOMAIN*:  FULL STACK WEB DEVELOPMENT
+
+*DURATION*:  6 WEEKS
+
+
 # 🌦️ Python-Weather-Dashboard
 
 A Python-based real-time Weather Dashboard that fetches 5-day weather forecast data using the OpenWeatherMap API and creates clean, visually appealing graphs using Matplotlib and Seaborn. Designed for students, interns, data learners, and those looking to practice API integration, data handling, and visualization using Python.
