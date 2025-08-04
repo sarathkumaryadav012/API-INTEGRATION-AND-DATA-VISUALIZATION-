@@ -125,6 +125,4 @@ Output weather conditions like "clear sky", "scattered clouds"
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License — you are free to use, modify, and distribute it with proper credit.
